@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacqueslethuaut
 - 👀 I’m interested in Humanity, Maths, Clouds
-- 🌱 I’m currently learning ML and Quantum algorithms
+- 🌱 I’m currently improving ML and Quantum algorithms
 
 
 <!---
