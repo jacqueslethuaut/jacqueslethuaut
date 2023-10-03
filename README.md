@@ -14,7 +14,7 @@
   - maybe robotics
   - ...
 
-- Feel free to reach me @jacques.lethuaut@gmail.com
+- Feel free to reach me @ jacques.lethuaut@gmail.com
 
 
 <!---
